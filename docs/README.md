@@ -37,6 +37,7 @@
 
 
 ## 数据结构与算法 
+- [动态规划](data_structures_and_algorithms/dp.md)
 - [面试题](data_structures_and_algorithms/interview.md)
 
 
